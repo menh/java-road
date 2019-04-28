@@ -1,6 +1,6 @@
 package com.mh;
 
-public class Aodi implements Car{
+public class Bieke implements Car{
 
 	@Override
 	public void start() {
