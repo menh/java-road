@@ -1,4 +1,4 @@
-package com.mh;
+package com.mh.myioc;
 
 public interface Car {
 	public void start();
